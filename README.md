@@ -38,6 +38,8 @@ Deberán replicar la siguiente página principal con lo visto en clase hasta el 
 
 <p>2- Se incluye un botón que llama a la función `calculateTotal()` cuando se hace clic;</p>
 
+<p>3- Validación de formulario de Bootstrap</p>
+
 <p>**JavaScript**</p>
 
 <p>3- `PRICE_PER_TICKET` es el precio base de cada boleto;</p>
@@ -46,8 +48,9 @@ Deberán replicar la siguiente página principal con lo visto en clase hasta el 
 
 <p>5- `calculateTotal()` es la función que se ejecuta al hacer clic en el botón de resumen. Obtiene la cantidad y categoría seleccionadas, calcula el precio total después del descuento, y actualiza el campo de total;</p>
 
-<p>6- La página es responsive de ambos lados (Front/Back).</p>
+<p>6- La página es responsive.</p>
 
 <div align="center">
-<img src="img/pink-panter.gif" alt="logo de GitHub" width="150"/>
+  <p>CONTINUARÁ...</p>
+  <img src="img/pink-panter.gif" alt="logo de GitHub" width="150"/>
 </div>
