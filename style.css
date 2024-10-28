@@ -7,6 +7,11 @@
     font-weight: 600;
 }
 
+/* ícono modo oscuro */
+.bi {
+    color: #fff;
+}
+
 .portada {  
    position: relative;
 } 
