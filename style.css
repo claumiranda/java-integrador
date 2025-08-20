@@ -15,6 +15,9 @@
 .portada {  
    position: relative;
 } 
+.portada p {
+    font-size: large;
+}
 
 .portada::before {
     content: "";
@@ -90,6 +93,10 @@
     }
 }
 
+.carousel-item {
+    font-size: large;
+}
+
 /* botón enviar front*/
 .hovered {
     background:#1AAB8A;
@@ -163,6 +170,13 @@ footer p {
     margin-top: 25px;
     font-size: large;
     font-weight: 800;
+}
+
+.copy {
+    text-align: center;
+    color: #93cb3c;
+    font-size: medium;
+    margin: 0;
 }
 
 /* Back-formulario */
